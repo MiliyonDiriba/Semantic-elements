@@ -1,0 +1,19 @@
+.all-browsers {
+    margin: 0;
+    padding: 5px;
+    background-color: rgb(158, 126, 126);
+}
+.all-browser > h1, .browser {
+  padding: 5px;
+  margin: 10px;  
+
+}
+.browser {
+background-color: rgb(59, 119, 172);
+
+}
+.browser >  h2, p {
+ margin: 4px;
+ font-size: 90%;
+
+}
