@@ -5,7 +5,8 @@
 }
 .all-browser > h1, .browser {
   padding: 5px;
-  margin: 10px;  
+  margin: 10px; 
+  width: 60%; 
 
 }
 .browser {
@@ -15,5 +16,23 @@ background-color: rgb(59, 119, 172);
 .browser >  h2, p {
  margin: 4px;
  font-size: 90%;
+
+}
+.nav {
+background-color: rgb(71, 71, 61);
+float: center;
+padding: 10px;
+margin: 10px;
+text-align: center;
+}
+
+aside {
+  background-color: lightgray;
+  float: right;
+  font-style: italic;
+  color: black;
+  width: 30%;
+  padding-left: 15px;
+  margin-left: 15px;
 
 }
